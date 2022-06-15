@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "facebook/graph-sdk": "^5.7",
+        "google/apiclient": "^2.7",
+        "mercadopago/dx-php": "2.2.1",
+        "firebase/php-jwt": "^5.2"
+    }
+}

@@ -1,0 +1,213 @@
+.header--market-place-4 .ps-dropdown a:hover {
+  color: #ffffff;
+}
+
+.header--market-place-4 .header__extra span {
+  background-color: #000;
+}
+
+.header--market-place-4 .header__extra span i {
+  color: #ffffff;
+}
+
+.header--market-place-4 .ps-block--user-header a:hover {
+  color: #fff;
+}
+
+.header--market-place-4 .header__top {
+  background-color: #0205b4d0;
+}
+
+.header--market-place-4 .header__top .header__left p {
+  color: #fff;
+}
+
+.header--market-place-4 .header__top .header__top-links li:after {
+  border-color: #001ea3;
+}
+
+.header--market-place-4 .header__top .header__top-links li > a {
+  color: white;
+}
+
+.header--market-place-4 .header__content {
+  background-color: #18309b;
+}
+
+.header--market-place-4 .header__content .container {
+  -webkit-box-align: start;
+          align-items: flex-start;
+}
+
+.header--market-place-4 .header__content .menu--product-categories .menu__toggle span {
+  display: none;
+}
+
+.header--market-place-4 .header__center-left {
+  padding-top: 10px;
+}
+
+.header--market-place-4 .header__content-center .ps-form--quick-search {
+  margin-bottom: 10px;
+}
+
+.header--market-place-4 .header__content-center .ps-form--quick-search button {
+  background-color: #000;
+  color: #fff;
+}
+
+.header--market-place-4 .header__content-center p {
+  margin-bottom: 0;
+}
+
+.header--market-place-4 .header__content-center p a {
+  display: inline-block;
+  margin-right: 10px;
+  color: rgb(250, 250, 250);
+}
+
+.header--market-place-4 .header__content-center p a:hover {
+  color: #1805ca;
+}
+
+.header--market-place-4.header--sticky .header__content .container {
+  -webkit-box-align: center;
+          align-items: center;
+}
+
+.header--market-place-4.header--sticky .header__content .menu--product-categories span {
+  display: block;
+}
+
+.header--market-place-4.header--sticky .header__content-center p {
+  display: none;
+}
+
+.ps-banner--market-4 {
+  position: relative;
+}
+
+.ps-banner--market-4 h4 {
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #0098ce;
+}
+
+.ps-banner--market-4 h3 {
+  font-size: 36px;
+  font-weight: 300;
+  line-height: 1.2em;
+}
+
+.ps-banner--market-4 h3 strong {
+  font-weight: 600;
+  color: #210099;
+}
+
+.ps-banner--market-4 .ps-btn {
+  margin-top: 20px;
+  padding: 12px 24px;
+}
+
+.ps-banner--market-4 .ps-banner__content {
+  max-width: 1200px;
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  padding-left: 140px;
+}
+
+@media (max-width: 1680px) {
+  .ps-banner--market-4 h4 {
+    margin-bottom: 10px;
+  }
+  .ps-banner--market-4 h3 {
+    font-size: 40px;
+    line-height: 1.2em;
+  }
+}
+
+@media (max-width: 1366px) {
+  .ps-banner--market-4 h4 {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  .ps-banner--market-4 h3 {
+    font-size: 40px;
+  }
+  .ps-banner--market-4 h3 br {
+    display: none;
+  }
+}
+
+@media (max-width: 1199px) {
+  .ps-banner--market-4 {
+    min-height: 400px;
+  }
+  .ps-banner--market-4 img {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+  }
+  .ps-banner--market-4 .ps-banner__content {
+    padding: 0 30px;
+  }
+}
+
+@media (max-width: 479px) {
+  .ps-banner--market-4 h3 {
+    font-size: 24px;
+  }
+  .ps-banner--market-4 p {
+    font-size: 12px;
+  }
+}
+
+#homepage-6 .ps-home-banner .owl-slider .owl-nav {
+  left: 50%;
+  max-width: 1200px;
+  margin: 0 auto;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#homepage-6 .ps-home-banner .owl-slider .owl-nav > * {
+  width: 48px;
+  height: 48px;
+}
+
+#homepage-6 .ps-site-features {
+  padding: 50px 0;
+}
+
+@media (max-width: 767px) {
+  #homepage-6 .ps-site-features {
+    padding: 30px 0;
+  }
+}
+
+#homepage-6 .ps-top-categories {
+  padding-bottom: 30px;
+}
+
+@media (min-width: 1680px) {
+  #homepage-6 .ps-top-categories .row .col-xl-2 {
+    max-width: calc(100% / 6);
+  }
+}
+
+#homepage-6 .ps-deal-hot {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+@media (max-width: 767px) {
+  #homepage-6 .ps-promotions .ps-collection {
+    margin-bottom: 30px;
+  }
+}
